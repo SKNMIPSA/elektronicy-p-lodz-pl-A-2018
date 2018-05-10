@@ -2,20 +2,29 @@
 FileName = elektronicy-p-lodz-pl-A-2018.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Paste
-      File : elektronicy-p-lodz-pl-A-2018.GTP
+Generating : Keep-Out Layer
+      File : elektronicy-p-lodz-pl-A-2018.GKO
 
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Keep-Out Layer
 
 
 Used DCodes :
-    D15
-    D16
-    D17
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : elektronicy-p-lodz-pl-A-2018.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
 *************************************************************
 
 *************************************************************
@@ -40,16 +49,6 @@ Used DCodes :
     D39
     D40
     D41
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : elektronicy-p-lodz-pl-A-2018.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -98,14 +97,17 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Keep-Out Layer
-      File : elektronicy-p-lodz-pl-A-2018.GKO
+Generating : Bottom Paste
+      File : elektronicy-p-lodz-pl-A-2018.GBP
 
-    Adding Layer      : Keep-Out Layer
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
 *************************************************************
 
 *************************************************************
@@ -145,6 +147,7 @@ Generating : Bottom Layer
 
 
 Used DCodes :
+    D10
     D31
     D32
     D33
@@ -160,32 +163,30 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : elektronicy-p-lodz-pl-A-2018.GBP
+Generating : Bottom Overlay
+      File : elektronicy-p-lodz-pl-A-2018.GBO
 
-    Adding Layer      : Bottom Paste
+    Adding Layer      : Bottom Overlay
 
-    Adding Layer      : Bottom Layer
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : elektronicy-p-lodz-pl-A-2018.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : elektronicy-p-lodz-pl-A-2018.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
+    D15
+    D16
+    D17
 *************************************************************
 
 *************************************************************
@@ -198,6 +199,7 @@ Generating : Top Layer
 
 
 Used DCodes :
+    D10
     D15
     D16
     D17
