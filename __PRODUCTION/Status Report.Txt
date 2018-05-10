@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [pcb.PcbDoc]
+   Generated File[elektronicy-p-lodz-pl-A-2018.GTO]
+   Generated File[elektronicy-p-lodz-pl-A-2018.GTP]
+   Generated File[elektronicy-p-lodz-pl-A-2018.GTS]
+   Generated File[elektronicy-p-lodz-pl-A-2018.GTL]
+   Generated File[elektronicy-p-lodz-pl-A-2018.GBL]
+   Generated File[elektronicy-p-lodz-pl-A-2018.GBS]
+   Generated File[elektronicy-p-lodz-pl-A-2018.GBP]
+   Generated File[elektronicy-p-lodz-pl-A-2018.GBO]
+   Generated File[elektronicy-p-lodz-pl-A-2018.GKO]
+   Generated File[elektronicy-p-lodz-pl-A-2018.GPT]
+   Generated File[elektronicy-p-lodz-pl-A-2018.GPB]
+   Generated File[elektronicy-p-lodz-pl-A-2018.RUL]
+   Generated File[elektronicy-p-lodz-pl-A-2018.EXTREP]
+   Generated File[elektronicy-p-lodz-pl-A-2018.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 10:34:05 On 10.05.2018
