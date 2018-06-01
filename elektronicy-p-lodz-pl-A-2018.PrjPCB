@@ -106,7 +106,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=.\_DOCUMENTATION\bom, elektronicy-p-lodz-pl-A-2018.xls
+DocumentPath=_DOCUMENTATION\bom, elektronicy-p-lodz-pl-A-2018.xls
 DItemRevisionGUID=
 
 [GeneratedDocument2]
@@ -181,33 +181,25 @@ DItemRevisionGUID=
 DocumentPath=__PRODUCTION\NC Drill\elektronicy-p-lodz-pl-A-2018.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument20]
-DocumentPath=__PRODUCTION\BOM\elektronicy-p-lodz-pl-A-2018.xls
-DItemRevisionGUID=
-
 [Parameter1]
-Name=
-Value=
+Name=ProjectCheckedBy
+Value=LR, MK, PP, ZK
 
 [Parameter2]
-Name=ProjectTitle
-Value=elektronicy-p-lodz-pl-A-2018
-
-[Parameter3]
-Name=ProjectSheetTotal
-Value=1
-
-[Parameter4]
-Name=ProjectRevision
-Value=1.0
-
-[Parameter5]
 Name=ProjectDrawnBy
 Value=PP
 
-[Parameter6]
-Name=ProjectCheckedBy
-Value=LR, MK, PP, ZK
+[Parameter3]
+Name=ProjectRevision
+Value=1.0
+
+[Parameter4]
+Name=ProjectSheetTotal
+Value=1
+
+[Parameter5]
+Name=ProjectTitle
+Value=elektronicy-p-lodz-pl-A-2018
 
 [Configuration1]
 Name=Sources
@@ -225,7 +217,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Hewlett-Packard HP LaserJet 400 M401dne
+TargetPrinter=HP LaserJet 2200 Series PCL 5
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -346,7 +338,7 @@ OutputDefault23=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Hewlett-Packard HP LaserJet 400 M401dne
+TargetPrinter=HP LaserJet 2200 Series PCL 5
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -433,7 +425,7 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Hewlett-Packard HP LaserJet 400 M401dne
+TargetPrinter=HP LaserJet 2200 Series PCL 5
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -455,7 +447,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Hewlett-Packard HP LaserJet 400 M401dne
+TargetPrinter=HP LaserJet 2200 Series PCL 5
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -527,7 +519,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Hewlett-Packard HP LaserJet 400 M401dne
+TargetPrinter=HP LaserJet 2200 Series PCL 5
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -564,7 +556,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Hewlett-Packard HP LaserJet 400 M401dne
+TargetPrinter=HP LaserJet 2200 Series PCL 5
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -744,7 +736,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Hewlett-Packard HP LaserJet 400 M401dne
+TargetPrinter=HP LaserJet 2200 Series PCL 5
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Component states check
 OutputName1=Server's components states check
@@ -783,7 +775,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Hewlett-Packard HP LaserJet 400 M401dne
+TargetPrinter=HP LaserJet 2200 Series PCL 5
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -834,7 +826,7 @@ OutputDefault9=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Hewlett-Packard HP LaserJet 400 M401dne
+TargetPrinter=HP LaserJet 2200 Series PCL 5
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
